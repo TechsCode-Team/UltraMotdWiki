@@ -1,5 +1,5 @@
 # Welcome!
-Welcome to the wiki page of Ultra Motd, where you can find all the information and documentation. You can navigate the wiki using the sidebar on the right.
+Welcome to the wiki page of **Ultra Motd**, where you can find all the information and documentation. You can navigate the wiki using the sidebar on the right.
 <br>
 
 ## Contact
