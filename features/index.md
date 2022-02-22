@@ -8,5 +8,13 @@ Below you can find all the available features of Ultra Motd. If you want to requ
 Here are all the features of Ultra Motd.
 <br>
 
-* **`Title`**
-  Description
+* **`Server MOTD`**
+  Create custom MOTD to show in the server list
+* **`Welcome MOTD`**
+  Welcome your players with a message when they join
+* **`Events`**
+  Change your MOTD when a specific event is trigger
+* **`Timers`**
+  Change your MOTD with timers or intervals
+* **`Maintenance Mode`**
+  Activate a maintenance mode on your server
