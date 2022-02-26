@@ -72,7 +72,7 @@ This setting will allow you to edit the text that will be shown when hovering th
 <br>
 
 After you edited it, when you hover your player counter it will looks like this. 
-*This is an example the text will be different from this.*
+(( *This is an example the text will be different from this.* ))
 <br>
 
 ![Hovering Player Counter](https://i.imgur.com/wIGciYr.png)
@@ -92,13 +92,13 @@ This setting will allow you to edit the server icon of your server. You can edit
 ![Server Icon](https://i.imgur.com/IWtOa98.png)
 <br>
 
-You will be able to get icons in 2 ways, the first one is by adding them in the `ServerIcons` folder you find inside the `UltraMotd` folder. The second way is getting them from an url, you can use the second way by opening the server icon GUI and then click on the Name Tag in the bottom-right of the GUI (Called `From URL`).
+You will be able to get the icons in 2 ways, the first one is by adding them in the `ServerIcons` folder you find inside the `UltraMotd` folder. The second way is getting them from an url, you can use the second way by opening the server icon GUI and then click on the Name Tag in the bottom-right of the GUI (Called `From URL`).
 <br>
 
 ![From URL](https://i.imgur.com/oTAm7Vd.png)
 <br>
 
-`Note:` **The size of the icon should be 64x64.**
+`Note:` **In both case the size of the icon should be 64x64.**
 <br>
 <br>
 
