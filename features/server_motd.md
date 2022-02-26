@@ -35,7 +35,7 @@ The **Server MOTD** feature has many settings that will be listed and described 
 This setting will allow you to change the name of your MOTD. It can be edited by clicking the Name Tag in the top-left of the GUI (Called `Rename MOTD`).
 <br>
 
-![Rename MOTD](https://i.imgur.com/Cq4yrPh.png)
+![Rename MOTD](https://i.imgur.com/xqiPtPB.png)
 <br>
 
 ## Activate MOTD
