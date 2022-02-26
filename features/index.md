@@ -18,3 +18,7 @@ Here are all the features of Ultra Motd.
   Change your MOTD with timers or intervals
 * **`Maintenance Mode`**
   Activate a maintenance mode on your server
+* **`HEX & Gradient support`**
+  HEXCODE support and Gradient support while formatting your MOTD
+  *HEXCODE: `{#RRBBGG}MOTD`*
+  *Gradient: `{#RRBBGG>}MOTD{#RRBBGG<}`*
