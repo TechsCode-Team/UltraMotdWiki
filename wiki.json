@@ -49,6 +49,20 @@
       "prev": { "url": "", "title": "" },
       "next": { "url": "", "title": "" },
       "subItems": {
+        "server_motd": {
+          "title":"Server Motd",
+          "prev": { "url": "", "title": "" },
+          "next": { "url": "", "title": "" }
+        }
+      }
+    },
+    "events": {
+      "iconType": "fas",
+      "icon":"calendar-days",
+      "title":"Events",
+      "prev": { "url": "", "title": "" },
+      "next": { "url": "", "title": "" },
+      "subItems": {
         "player-join": {
           "title":"Player Join",
           "prev": { "url": "", "title": "" },
@@ -251,20 +265,6 @@
         },
         "portal-create": {
           "title":"Portal Create",
-          "prev": { "url": "", "title": "" },
-          "next": { "url": "", "title": "" }
-        }
-      }
-    },
-    "events": {
-      "iconType": "fas",
-      "icon":"calendar-days",
-      "title":"Events",
-      "prev": { "url": "", "title": "" },
-      "next": { "url": "", "title": "" },
-      "subItems": {
-        "ersver_motd": {
-          "title":"Server Motd",
           "prev": { "url": "", "title": "" },
           "next": { "url": "", "title": "" }
         }
