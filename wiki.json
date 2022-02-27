@@ -49,7 +49,221 @@
       "prev": { "url": "", "title": "" },
       "next": { "url": "", "title": "" },
       "subItems": {
-        "server_motd": {
+        "player-join": {
+          "title":"Player Join",
+          "prev": { "url": "", "title": "" },
+          "next": { "url": "", "title": "" }
+        },
+        "player-leave": {
+          "title":"Player Leave",
+          "prev": { "url": "", "title": "" },
+          "next": { "url": "", "title": "" }
+        },
+        "player-kick": {
+          "title":"Player Kick",
+          "prev": { "url": "", "title": "" },
+          "next": { "url": "", "title": "" }
+        },
+        "player-bed-enter": {
+          "title":"Player Bed Enter",
+          "prev": { "url": "", "title": "" },
+          "next": { "url": "", "title": "" }
+        },
+        "player-bed-leave": {
+          "title":"Player Bed Leave",
+          "prev": { "url": "", "title": "" },
+          "next": { "url": "", "title": "" }
+        },
+        "player-death": {
+          "title":"Player Death",
+          "prev": { "url": "", "title": "" },
+          "next": { "url": "", "title": "" }
+        },
+        "player-portal": {
+          "title":"Player Portal",
+          "prev": { "url": "", "title": "" },
+          "next": { "url": "", "title": "" }
+        },
+        "player-teleport": {
+          "title":"Player Teleport",
+          "prev": { "url": "", "title": "" },
+          "next": { "url": "", "title": "" }
+        },
+        "player-toggle-flight": {
+          "title":"Player Toggle Flight",
+          "prev": { "url": "", "title": "" },
+          "next": { "url": "", "title": "" }
+        },
+        "player-fish": {
+          "title":"Player Fish",
+          "prev": { "url": "", "title": "" },
+          "next": { "url": "", "title": "" }
+        },
+        "player-gamemode-change": {
+          "title":"Player Gamemode Change",
+          "prev": { "url": "", "title": "" },
+          "next": { "url": "", "title": "" }
+        },
+        "player-bucket-empty": {
+          "title":"Player Bucket Empty",
+          "prev": { "url": "", "title": "" },
+          "next": { "url": "", "title": "" }
+        },
+        "player-bucket-fill": {
+          "title":"Player Bucket Fill",
+          "prev": { "url": "", "title": "" },
+          "next": { "url": "", "title": "" }
+        },
+        "player-pickup-arrow": {
+          "title":"Player Pickup Arrow",
+          "prev": { "url": "", "title": "" },
+          "next": { "url": "", "title": "" }
+        },
+        "player-drop-item": {
+          "title":"Player Drop Item",
+          "prev": { "url": "", "title": "" },
+          "next": { "url": "", "title": "" }
+        },
+        "player-egg-throw": {
+          "title":"Player Egg Throw",
+          "prev": { "url": "", "title": "" },
+          "next": { "url": "", "title": "" }
+        },
+        "player-exp-change": {
+          "title":"Player Exp Change",
+          "prev": { "url": "", "title": "" },
+          "next": { "url": "", "title": "" }
+        },
+        "player-item-break": {
+          "title":"Player Item Break",
+          "prev": { "url": "", "title": "" },
+          "next": { "url": "", "title": "" }
+        },
+        "player-shear-entity": {
+          "title":"Player Shear Entity",
+          "prev": { "url": "", "title": "" },
+          "next": { "url": "", "title": "" }
+        },
+        "block-break": {
+          "title":"Block Break",
+          "prev": { "url": "", "title": "" },
+          "next": { "url": "", "title": "" }
+        },
+        "block-placek": {
+          "title":"Block Place",
+          "prev": { "url": "", "title": "" },
+          "next": { "url": "", "title": "" }
+        },
+        "block-damage": {
+          "title":"Block Damage",
+          "prev": { "url": "", "title": "" },
+          "next": { "url": "", "title": "" }
+        },
+        "block-grow": {
+          "title":"Block Grow",
+          "prev": { "url": "", "title": "" },
+          "next": { "url": "", "title": "" }
+        },
+        "block-piston-extend": {
+          "title":"Block Piston Extend",
+          "prev": { "url": "", "title": "" },
+          "next": { "url": "", "title": "" }
+        },
+        "block-piston-retract": {
+          "title":"Block Piston Retract",
+          "prev": { "url": "", "title": "" },
+          "next": { "url": "", "title": "" }
+        },
+        "entity-death": {
+          "title":"Entity Death",
+          "prev": { "url": "", "title": "" },
+          "next": { "url": "", "title": "" }
+        },
+        "entity-explode": {
+          "title":"Entity Explode",
+          "prev": { "url": "", "title": "" },
+          "next": { "url": "", "title": "" }
+        },
+        "entity-breed": {
+          "title":"Entity Breed",
+          "prev": { "url": "", "title": "" },
+          "next": { "url": "", "title": "" }
+        },
+        "entity-shoot-bow": {
+          "title":"Entity Shoot Bow",
+          "prev": { "url": "", "title": "" },
+          "next": { "url": "", "title": "" }
+        },
+        "note-play": {
+          "title":"Note Play",
+          "prev": { "url": "", "title": "" },
+          "next": { "url": "", "title": "" }
+        },
+        "inventory-open": {
+          "title":"Inventory Open",
+          "prev": { "url": "", "title": "" },
+          "next": { "url": "", "title": "" }
+        },
+        "inventory-close": {
+          "title":"Inventory Close",
+          "prev": { "url": "", "title": "" },
+          "next": { "url": "", "title": "" }
+        },
+        "brew": {
+          "title":"Brew",
+          "prev": { "url": "", "title": "" },
+          "next": { "url": "", "title": "" }
+        },
+        "lightning-strike": {
+          "title":"Lightning Strike",
+          "prev": { "url": "", "title": "" },
+          "next": { "url": "", "title": "" }
+        },
+        "weather-change": {
+          "title":"Weather Change",
+          "prev": { "url": "", "title": "" },
+          "next": { "url": "", "title": "" }
+        },
+        "chunk-load": {
+          "title":"Chunk Load",
+          "prev": { "url": "", "title": "" },
+          "next": { "url": "", "title": "" }
+        },
+        "chunk-unload": {
+          "title":"Chunk Unload",
+          "prev": { "url": "", "title": "" },
+          "next": { "url": "", "title": "" }
+        },
+        "spawn-change": {
+          "title":"Spawn Change",
+          "prev": { "url": "", "title": "" },
+          "next": { "url": "", "title": "" }
+        },
+        "craft-item": {
+          "title":"Craft Item",
+          "prev": { "url": "", "title": "" },
+          "next": { "url": "", "title": "" }
+        },
+        "enchant-item": {
+          "title":"Enchant Item",
+          "prev": { "url": "", "title": "" },
+          "next": { "url": "", "title": "" }
+        },
+        "portal-create": {
+          "title":"Portal Create",
+          "prev": { "url": "", "title": "" },
+          "next": { "url": "", "title": "" }
+        }
+      }
+    },
+    "events": {
+      "iconType": "fas",
+      "icon":"calendar-days",
+      "title":"Events",
+      "prev": { "url": "", "title": "" },
+      "next": { "url": "", "title": "" },
+      "subItems": {
+        "ersver_motd": {
           "title":"Server Motd",
           "prev": { "url": "", "title": "" },
           "next": { "url": "", "title": "" }
