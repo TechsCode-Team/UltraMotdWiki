@@ -3,7 +3,7 @@ Welcome to the wiki page of **Ultra Motd**, where you can find all the informati
 <br>
 
 ## Contact
-You can communicate with our support team by joining our Patreon-Only **Discord**.
+You can communicate with our support team by joining our **[Discord](https://discord.gg/3JuHDm8)**. It is the only way we can give you support once you have verified your purchase.
 <br>
 
 ## What can you find on the wiki?
@@ -12,5 +12,6 @@ You can communicate with our support team by joining our Patreon-Only **Discord*
 - [Placeholders](./overview/placeholders) - The list of placeholders
 - [Installation Guide](./installation) - A quick guide on how to install Ultra Motd
 - [Features](./features) - A list with all the features of Ultra Motd
+- [Elements](./events) - All the available Events
 - [FAQ](./faq) - A FAQ of common questions
   

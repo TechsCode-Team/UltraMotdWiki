@@ -57,7 +57,7 @@
       }
     },
     "events": {
-      "iconType": "fa",
+      "iconType": "fas",
       "icon":"calendar-days",
       "title":"Events",
       "prev": { "url": "", "title": "" },
