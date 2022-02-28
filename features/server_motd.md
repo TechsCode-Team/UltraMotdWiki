@@ -72,7 +72,7 @@ This setting will allow you to edit the text that will be shown when hovering th
 <br>
 
 After you edited it, when you hover your player counter it will looks like this. 
-(( *This is an example the text will be different from this.* ))
+(( *This is an example the text will be different from this* ))
 <br>
 
 ![Hovering Player Counter](https://i.imgur.com/wIGciYr.png)
