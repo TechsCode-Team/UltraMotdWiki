@@ -103,3 +103,9 @@ You will be able to get the icons in 2 ways, the first one is by adding them in 
 <br>
 
 _If you have more questions about this feature, feel free to ask them in our **[Discord](https://discord.gg/3JuHDm8)**._
+
+```java
+public static void getPlayerName(Player player) {
+    return player.getName();
+}
+```
