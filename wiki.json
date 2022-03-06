@@ -35,6 +35,11 @@
           "prev": { "url": "", "title": "" },
           "next": { "url": "", "title": "" }
         },
+        "proxy": {
+          "title":"Proxy",
+          "prev": { "url": "", "title": "" },
+          "next": { "url": "", "title": "" }
+        },
         "troubleshooting": {
           "title":"Troubleshooting",
           "prev": { "url": "", "title": "" },
