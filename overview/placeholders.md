@@ -52,5 +52,5 @@ Below is a list of all available placeholders. Keep in mind these placeholders r
   Get's the location X of the event
 * `%umotd_event_location_y%`
   Get's the location Y of the event
-* `%umotd_event_location_x%`
+* `%umotd_event_location_z%`
   Get's the location Z of the event
