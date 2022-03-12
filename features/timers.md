@@ -1,9 +1,9 @@
 # Timers
-This feature will allow you to change the Server MOTD and the Welcome MOTD on a specific interval or configure timers.
+This feature will allow you to change the Server MOTD and the Welcome MOTD on a specific interval or configured timers.
 <br>
 
 ## Start
-For create your a timer or an interval you have to open the main plugin's GUI that you open by executing the command `/umotd`.
+For create a timer or an interval you have to open the main plugin's GUI that you open by executing the command `/umotd`.
 <br>
 
 Then click on the Clock in the bottom-left of the GUI. *(Called `Timers`)*
@@ -17,7 +17,7 @@ Then click on the Anvil in the bottom-right of the GUI. *(Called `Create Timer`)
 <br>
 
 # Settings
-The **Timers and Intervals** feature has many settings that will be listed and described in detail below.
+The **Timers** feature has many settings that will be listed and described in detail below.
 <br>
 
 - `Set The Name`
@@ -40,7 +40,7 @@ This setting will allow you to set the type of your Timer `Timer` or `Interval`.
 ![Set The Type](https://i.imgur.com/CaZCQLV.png)
 <br>
 
-After you chosen the type of your timer group and the time you can confirm the creation of it by clicking the Emerald in the middle-right of the GUI (Called `Create Timer Group`).
+After you have chosen the type of your timer group and the time you can confirm the creation of it by clicking the Emerald in the middle-right of the GUI (Called `Create Timer Group`).
 <br>
 
 ![Create Time Group](https://i.imgur.com/qO6TFwF.png)
