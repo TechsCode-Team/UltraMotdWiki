@@ -59,6 +59,11 @@
           "prev": { "url": "", "title": "" },
           "next": { "url": "", "title": "" }
         },
+        "events": {
+          "title":"Events",
+          "prev": { "url": "", "title": "" },
+          "next": { "url": "", "title": "" }
+        },
         "timers": {
           "title":"Timers",
           "prev": { "url": "", "title": "" },

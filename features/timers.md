@@ -12,8 +12,8 @@ Then click on the Clock in the bottom-left of the GUI. *(Called `Timers`)*
 Then click on the Anvil in the bottom-right of the GUI. *(Called `Create Timer`)*
 <br>
 
-*Here's a shortend version of the MOTD creation:*
-`/umotd >> Server MOTD >> Create MOTD`
+*Here's a shortend version of the Timer creation:*
+`/umotd >> Timers >> Create Timer`
 <br>
 
 # Settings
