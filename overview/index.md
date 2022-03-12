@@ -12,6 +12,6 @@ You can communicate with our support team by joining our **[Discord](https://dis
 - [Placeholders](./overview/placeholders) - The list of placeholders
 - [Installation Guide](./installation) - A quick guide on how to install Ultra Motd
 - [Features](./features) - A list with all the features of Ultra Motd
-- [Elements](./events) - All the available Events
+- [Events](./events) - All the available Events
 - [FAQ](./faq) - A FAQ of common questions
   

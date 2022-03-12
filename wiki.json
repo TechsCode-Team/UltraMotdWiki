@@ -59,6 +59,11 @@
           "prev": { "url": "", "title": "" },
           "next": { "url": "", "title": "" }
         },
+        "timers": {
+          "title":"Timers",
+          "prev": { "url": "", "title": "" },
+          "next": { "url": "", "title": "" }
+        },
         "maintenance_mode": {
           "title":"Maintenance Mode",
           "prev": { "url": "", "title": "" },
