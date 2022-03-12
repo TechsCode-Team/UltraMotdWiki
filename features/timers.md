@@ -75,21 +75,21 @@ This setting will allow you to choose what Server MOTD should be shown when the 
 <br>
 
 ### Select Welcome MOTD
-This setting will allow you to choose what Welcome MOTD should be sent to the player at the join when the timer will be executed. You can edit it by clicking the Firework in the middle-left of the GUI (Called `Select Welcome MOTD`)
+This setting will allow you to choose what Welcome MOTD should be sent to the player at the join when the timer will be executed. You can edit it by clicking the Firework in the middle-left of the GUI (Called `Select Welcome MOTD`).
 <br>
 
 ![Select Welcome MOTD](https://i.imgur.com/f0IWGtE.png)
 <br>
 
 ## Activate Timer Element
-This setting will allow you to activate and deactivate a Timer Element. You can activate or deactivate it by clicking the Timer Element you want to edit and then click on the Emerald in the middle of the GUI (Called `Activate MOTD`)
+This setting will allow you to activate and deactivate a Timer Element. You can activate or deactivate it by clicking the Timer Element you want to edit and then click on the Emerald in the middle of the GUI (Called `Activate MOTD`) / *(Called `Deactivate MOTD`)*.
 <br>
 
 ![Activate Timer Element](https://i.imgur.com/lyOALQy.png)
 <br>
 
 ## Activate Timer Group
-This setting will allow you to activate and deactivate the Timer Group. You can activate or deactivate it by clicking the Emerald in the top-right of the GUI (Called `Activate Timer Group`)
+This setting will allow you to activate and deactivate the Timer Group. You can activate or deactivate it by clicking the Emerald in the top-right of the GUI (Called `Activate Timer Group`) / *(Called `Deactivate Timer Group`)*.
 <br>
 
 ![Activate Timer Group](https://i.imgur.com/HNlBxjv.png)

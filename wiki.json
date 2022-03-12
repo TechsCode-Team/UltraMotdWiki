@@ -59,6 +59,11 @@
           "prev": { "url": "", "title": "" },
           "next": { "url": "", "title": "" }
         },
+        "welcome_message": {
+          "title":"Welcome Message",
+          "prev": { "url": "", "title": "" },
+          "next": { "url": "", "title": "" }
+        },
         "events": {
           "title":"Events",
           "prev": { "url": "", "title": "" },
