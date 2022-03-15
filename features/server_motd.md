@@ -19,6 +19,9 @@ After you clicked it, it will ask you to input a name for your MOTD. After you d
 `/umotd >> Server MOTD >> Create MOTD`
 <br>
 
+`Note:` **For the feature to work you need to install [ProtocolLib](https://www.spigotmc.org/resources/protocollib.1997/).**
+<br>
+
 # Settings
 The **Server MOTD** feature has many settings that will be listed and described in detail below.
 <br>
