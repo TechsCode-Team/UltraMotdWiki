@@ -1,6 +1,6 @@
 {
     "overview": {
-      "iconType": "fas",
+      "iconType": "fa-solid",
       "icon":"map",
       "title":"Overview",
       "prev": { "url": "", "title": "" },
@@ -24,7 +24,7 @@
       }
     },
     "installation": {
-      "iconType": "fas",
+      "iconType": "fa-solid",
       "icon":"tasks",
       "title":"Installation",
       "prev": { "url": "", "title": "" },
@@ -48,7 +48,7 @@
       }
     },
     "features": {
-      "iconType": "fas",
+      "iconType": "fa-solid",
       "icon":"info",
       "title":"Features",
       "prev": { "url": "", "title": "" },
@@ -82,7 +82,7 @@
       }
     },
     "events": {
-      "iconType": "fas",
+      "iconType": "fa-solid",
       "icon":"calendar-days",
       "title":"Events",
       "prev": { "url": "", "title": "" },
@@ -296,7 +296,7 @@
       }
     },
     "faq": {
-      "iconType": "fas",
+      "iconType": "fa-solid",
       "icon":"question",
       "title":"FAQ",
       "prev": { "url": "", "title": "" },
