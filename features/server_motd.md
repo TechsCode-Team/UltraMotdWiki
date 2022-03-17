@@ -61,7 +61,7 @@ This setting will allow you to edit the lines of your MOTD. You can edit them by
 ![Change Lines](https://i.imgur.com/CtrHkkN.png)
 <br>
 
-You can add `{center}` to center the text of your line.
+You can add `{center}` to align the text to the center of your MOTD, or `{end}` for align it at the end.
 <br>
 
 `Note:` **You can have a max of 2 lines for MOTD.**
