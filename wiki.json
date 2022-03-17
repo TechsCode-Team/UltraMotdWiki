@@ -57,26 +57,26 @@
         "server_motd": {
           "title":"Server Motd",
           "prev": { "url": "", "title": "" },
-          "next": { "url": "", "title": "" }
+          "next": { "url": "https://ultramotd.com/wiki/features/welcome_message", "title": "Welcome Message" }
         },
         "welcome_message": {
           "title":"Welcome Message",
-          "prev": { "url": "", "title": "" },
-          "next": { "url": "", "title": "" }
+          "prev": { "url": "https://ultramotd.com/wiki/features/server_motd", "title": "Server Motd" },
+          "next": { "url": "https://ultramotd.com/wiki/features/events", "title": "Events" }
         },
         "events": {
           "title":"Events",
-          "prev": { "url": "", "title": "" },
-          "next": { "url": "", "title": "" }
+          "prev": { "url": "https://ultramotd.com/wiki/features/welcome_message", "title": "Welcome Message" },
+          "next": { "url": "https://ultramotd.com/wiki/features/timers", "title": "Timers" }
         },
         "timers": {
           "title":"Timers",
-          "prev": { "url": "", "title": "" },
-          "next": { "url": "", "title": "" }
+          "prev": { "url": "https://ultramotd.com/wiki/features/events", "title": "Events" },
+          "next": { "url": "https://ultramotd.com/wiki/features/maintenance_mode", "title": "Maintenance Mode" }
         },
         "maintenance_mode": {
           "title":"Maintenance Mode",
-          "prev": { "url": "", "title": "" },
+          "prev": { "url": "https://ultramotd.com/wiki/features/timers", "title": "Timers" },
           "next": { "url": "", "title": "" }
         }
       }
