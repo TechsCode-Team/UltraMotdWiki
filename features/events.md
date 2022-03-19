@@ -12,7 +12,7 @@ Then click on the Redstone Comparator in the bottom-right of the GUI. *(Called `
 Then click on the Anvil in the bottom-right of the GUI. *(Called `Add Event`)*
 <br>
 
-After you clicked it you will need to choose what event you want to use, you can find a list of all the events present **[here](../events/index.md)**
+After you clicked it you will need to choose what event you want to use, you can find a list of all the events present **[here](../events)**
 <br>
 
 *Here's a shortend version of the Event creation:*
