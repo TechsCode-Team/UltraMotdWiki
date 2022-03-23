@@ -82,7 +82,7 @@ After you edited it, when you hover your player counter it will looks like this.
 <br>
 
 ## Player Count Text
-This setting will allow you to edit the number of the max players count. You can edit it by clicking the Paper in the bottom of the GUI (Called `Set Player Count Text`).
+This setting will allow you to edit the text of the player counter. You can edit it by clicking the Paper in the bottom of the GUI (Called `Set Player Count Text`).
 <br>
 
 ![Player Count Text](https://i.imgur.com/DpJ64cg.png)
