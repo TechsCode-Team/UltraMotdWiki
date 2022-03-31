@@ -54,3 +54,11 @@ Below is a list of all available placeholders. Keep in mind these placeholders r
   Get's the location Y of the event
 * `%umotd_event_location_z%`
   Get's the location Z of the event
+* `%umotd_maintenance_active%`
+  Returns **enabled** or **disabled**
+* `%umotd_maintenance_permission%`
+  Returns the permission needed for join while the server is in maintenance
+* `%umotd_maintenance_time_<format>_until_start%`
+  Returns the amount of time left until the start of maintenance mode
+* `%umotd_maintenance_time_<format>_until_end%`
+  Returns the amount of time left until the end of maintenance mode
