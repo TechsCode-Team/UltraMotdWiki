@@ -20,5 +20,5 @@ Here are all the features of Ultra Motd.
   Activate a maintenance mode on your server
 * **`HEX & Gradient support`**
   HEXCODE support and Gradient support while formatting your MOTD
-  *HEXCODE: `{#RRBBGG}MOTD`*
-  *Gradient: `{#RRBBGG>}MOTD{#RRBBGG<}`*
+  *HEXCODE: `{#RRGGBB}MOTD`*
+  *Gradient: `{#RRGGBB>}MOTD{#RRGGBB<}`*
