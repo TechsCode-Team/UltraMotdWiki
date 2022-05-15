@@ -1,8 +1,6 @@
 ## On this page you can find all the events that are supported by Ultra Motd
 <br>
 
-**Description**
-<br>
 * [Player Join](./events/player-join)
 * [Player Leave](./events/player-leave)
 * [Player Kick](./events/player-kick)
