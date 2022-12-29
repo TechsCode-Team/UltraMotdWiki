@@ -46,14 +46,14 @@ After you have chosen the type of your timer group and the time you can confirm 
 ![Create Time Group](https://i.imgur.com/qO6TFwF.png)
 <br>
 
-## How a Timer work?
+## How does a Timer work?
 The Timer will execute the action(s) you chosen, when X datetime will be reached. You can use the Timer mode by selecting `Timer` in `Set The Type` and by choosing the datetime that when reached will performs the action(s) selected.
 <br>
 
 ![Datetime Set](https://i.imgur.com/gJblbU7.png)
 <br>
 
-## How an Interval work?
+## How does an Interval work?
 The Interval will execute the action(s) you chosen, whenever your chosen time is repeated. You can use the Interval mode by selecting `Interval` in `Set The Type` and by choosing the the time that must elapse between each interval for performs the action(s) selected.
 <br>
 
